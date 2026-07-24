@@ -1,7 +1,7 @@
 ---
 layout: pid
 title: 12pad
-owner: Positron Electronic
+owner: Positron-Electronic
 license: GPL-2.0
 site: https://github.com/juarendra/12pad-QMK-VIA
 source: https://github.com/juarendra/12pad-QMK-VIA
