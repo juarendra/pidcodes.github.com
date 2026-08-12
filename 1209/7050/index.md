@@ -1,4 +1,4 @@
-﻿---
+---
 layout: pid
 title: OSUpad
 owner: Positron-Electronic
