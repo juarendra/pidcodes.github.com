@@ -1,7 +1,7 @@
----
+﻿---
 layout: pid
 title: OSUpad
-owner: Positron Electronic
+owner: Positron-Electronic
 license: MIT
 repo: https://github.com/juarendra/OSUpad-QMK-VIA
 ---
